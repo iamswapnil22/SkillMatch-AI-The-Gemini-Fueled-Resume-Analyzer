@@ -1,0 +1,10 @@
+prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+libdir=d:/Data Science Content/ATS using Gemini/venv/Library/lib
+includedir=d:/Data Science Content/ATS using Gemini/venv/Library/include
+
+Name: poppler
+Description: PDF rendering library
+Version: 24.02.0
+
+Libs: -L${libdir} -lpoppler
+Cflags: -I${includedir}/poppler

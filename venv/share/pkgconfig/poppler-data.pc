@@ -1,0 +1,8 @@
+poppler_datadir=d:/Data Science Content/ATS using Gemini/venv/share/poppler
+
+Name: poppler-data
+Description: Encoding files for use with poppler
+Version: 0.4.12
+
+Cflags: -DPOPPLER_DATADIR=d:/Data Science Content/ATS using Gemini/venv/share/poppler
+

@@ -1,0 +1,13 @@
+prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+exec_prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+libdir=d:/Data Science Content/ATS using Gemini/venv/Library/lib
+sharedlibdir=d:/Data Science Content/ATS using Gemini/venv/Library/lib
+includedir=d:/Data Science Content/ATS using Gemini/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

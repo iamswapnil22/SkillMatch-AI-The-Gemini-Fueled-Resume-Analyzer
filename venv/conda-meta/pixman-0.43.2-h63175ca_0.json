@@ -1,0 +1,86 @@
+{
+  "build": "h63175ca_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\pixman-0.43.2-h63175ca_0",
+  "files": [
+    "Library/bin/pixman-1-0.dll",
+    "Library/include/pixman-1/pixman-version.h",
+    "Library/include/pixman-1/pixman.h",
+    "Library/lib/libpixman-1.a",
+    "Library/lib/pixman-1.lib",
+    "Library/lib/pkgconfig/pixman-1.pc",
+    ".nonadmin"
+  ],
+  "fn": "pixman-0.43.2-h63175ca_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\pixman-0.43.2-h63175ca_0",
+    "type": 1
+  },
+  "md5": "1060b0e26af2192e80b1d04cae0b029f",
+  "name": "pixman",
+  "package_tarball_full_path": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\pixman-0.43.2-h63175ca_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/pixman-1-0.dll",
+        "path_type": "hardlink",
+        "sha256": "0a2b2bb957a72d04613b133b875ea633f462e69b3456ddb6e044c54c0990a1fd",
+        "sha256_in_prefix": "0a2b2bb957a72d04613b133b875ea633f462e69b3456ddb6e044c54c0990a1fd",
+        "size_in_bytes": 592896
+      },
+      {
+        "_path": "Library/include/pixman-1/pixman-version.h",
+        "path_type": "hardlink",
+        "sha256": "af5aa9b0edd0f6175faeba41a2fa25d8cf396ad45970531ae6d7492e86d0c251",
+        "sha256_in_prefix": "af5aa9b0edd0f6175faeba41a2fa25d8cf396ad45970531ae6d7492e86d0c251",
+        "size_in_bytes": 1786
+      },
+      {
+        "_path": "Library/include/pixman-1/pixman.h",
+        "path_type": "hardlink",
+        "sha256": "ef77f6ef29bfde4b4465c4567d32c9b60acb5e3924ec6350fa87bfe847be9527",
+        "sha256_in_prefix": "ef77f6ef29bfde4b4465c4567d32c9b60acb5e3924ec6350fa87bfe847be9527",
+        "size_in_bytes": 48525
+      },
+      {
+        "_path": "Library/lib/libpixman-1.a",
+        "path_type": "hardlink",
+        "sha256": "dc49d6c215cc12c541cc9bffd99bc231a63cdcf2cf9059c22519a47fa8790fa7",
+        "sha256_in_prefix": "dc49d6c215cc12c541cc9bffd99bc231a63cdcf2cf9059c22519a47fa8790fa7",
+        "size_in_bytes": 1850022
+      },
+      {
+        "_path": "Library/lib/pixman-1.lib",
+        "path_type": "hardlink",
+        "sha256": "10846599f72c097a456edd780beb6781065deada9b9bb4aa204cf9752c8d8aa7",
+        "sha256_in_prefix": "10846599f72c097a456edd780beb6781065deada9b9bb4aa204cf9752c8d8aa7",
+        "size_in_bytes": 40278
+      },
+      {
+        "_path": "Library/lib/pkgconfig/pixman-1.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/pixman_1706549394729/_h_env",
+        "sha256": "44ee5d6cfb5cf1bae4851777a994f58ab5e340036c3505bcfa2124ad5cdd6d66",
+        "sha256_in_prefix": "c4e412d49243b8194ca1e63d8fd956bc940f6a7a3120527d94dabaedce826a74",
+        "size_in_bytes": 245
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "659db230ba8121395b23fa6fce5f16532f54e4e7397ff9e7c19d9c7e436d29f8",
+  "size": 460196,
+  "subdir": "win-64",
+  "timestamp": 1706549794000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pixman-0.43.2-h63175ca_0.conda",
+  "version": "0.43.2"
+}

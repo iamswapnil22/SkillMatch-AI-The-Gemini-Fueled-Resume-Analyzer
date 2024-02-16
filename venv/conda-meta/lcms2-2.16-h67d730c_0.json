@@ -1,0 +1,110 @@
+{
+  "build": "h67d730c_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libjpeg-turbo >=3.0.0,<4.0a0",
+    "libtiff >=4.6.0,<4.7.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\lcms2-2.16-h67d730c_0",
+  "files": [
+    "Library/bin/jpgicc.exe",
+    "Library/bin/lcms2.dll",
+    "Library/bin/linkicc.exe",
+    "Library/bin/psicc.exe",
+    "Library/bin/tificc.exe",
+    "Library/bin/transicc.exe",
+    "Library/include/lcms2.h",
+    "Library/include/lcms2_plugin.h",
+    "Library/lib/lcms2.lib",
+    ".nonadmin"
+  ],
+  "fn": "lcms2-2.16-h67d730c_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\lcms2-2.16-h67d730c_0",
+    "type": 1
+  },
+  "md5": "d3592435917b62a8becff3a60db674f6",
+  "name": "lcms2",
+  "package_tarball_full_path": "C:\\Users\\Lenovo\\miniconda3\\pkgs\\lcms2-2.16-h67d730c_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/jpgicc.exe",
+        "path_type": "hardlink",
+        "sha256": "c8e20450086259349962539d535481f00b34375ad1d86d0aa3f27c8d42f2ba17",
+        "sha256_in_prefix": "c8e20450086259349962539d535481f00b34375ad1d86d0aa3f27c8d42f2ba17",
+        "size_in_bytes": 259072
+      },
+      {
+        "_path": "Library/bin/lcms2.dll",
+        "path_type": "hardlink",
+        "sha256": "2f864b9f1bf5839fbc963265a0c9c94a4709124439e5ab5bfcae5f522483a1c4",
+        "sha256_in_prefix": "2f864b9f1bf5839fbc963265a0c9c94a4709124439e5ab5bfcae5f522483a1c4",
+        "size_in_bytes": 560128
+      },
+      {
+        "_path": "Library/bin/linkicc.exe",
+        "path_type": "hardlink",
+        "sha256": "0c2e08c22b3bc30a87830670f50ddcbc9e999919319f4d177c9126820fdbf0a2",
+        "sha256_in_prefix": "0c2e08c22b3bc30a87830670f50ddcbc9e999919319f4d177c9126820fdbf0a2",
+        "size_in_bytes": 440832
+      },
+      {
+        "_path": "Library/bin/psicc.exe",
+        "path_type": "hardlink",
+        "sha256": "4e2df649cd7b407173c2c049f6bac193e188c7b7d66142a38484136c1d8d7e1f",
+        "sha256_in_prefix": "4e2df649cd7b407173c2c049f6bac193e188c7b7d66142a38484136c1d8d7e1f",
+        "size_in_bytes": 445952
+      },
+      {
+        "_path": "Library/bin/tificc.exe",
+        "path_type": "hardlink",
+        "sha256": "835252c054e22fc2c2d62cb393647d6d1d22c1cc4d23ecf65aab78432fddc467",
+        "sha256_in_prefix": "835252c054e22fc2c2d62cb393647d6d1d22c1cc4d23ecf65aab78432fddc467",
+        "size_in_bytes": 278016
+      },
+      {
+        "_path": "Library/bin/transicc.exe",
+        "path_type": "hardlink",
+        "sha256": "4503084d275fd35612b1659d1ecb5dbc618a4e1cd3a0caff76479842a896039e",
+        "sha256_in_prefix": "4503084d275fd35612b1659d1ecb5dbc618a4e1cd3a0caff76479842a896039e",
+        "size_in_bytes": 484352
+      },
+      {
+        "_path": "Library/include/lcms2.h",
+        "path_type": "hardlink",
+        "sha256": "689731ac9a96f66f37a340a53961e15e90b7340aa954db38ef04387f3e95e415",
+        "sha256_in_prefix": "689731ac9a96f66f37a340a53961e15e90b7340aa954db38ef04387f3e95e415",
+        "size_in_bytes": 107212
+      },
+      {
+        "_path": "Library/include/lcms2_plugin.h",
+        "path_type": "hardlink",
+        "sha256": "861269693bad6450ab96ff763cf31946a3bac249d37105d14e9ad0d6f7aa0563",
+        "sha256_in_prefix": "861269693bad6450ab96ff763cf31946a3bac249d37105d14e9ad0d6f7aa0563",
+        "size_in_bytes": 31557
+      },
+      {
+        "_path": "Library/lib/lcms2.lib",
+        "path_type": "hardlink",
+        "sha256": "93f76027d4cbe71d38fcb71514e18cab3ce8bf761d19f373311cc11473119ce5",
+        "sha256_in_prefix": "93f76027d4cbe71d38fcb71514e18cab3ce8bf761d19f373311cc11473119ce5",
+        "size_in_bytes": 84654
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f9fd9e80e46358a57d9bb97b1e37a03da4022143b019aa3c4476d8a7795de290",
+  "size": 507632,
+  "subdir": "win-64",
+  "timestamp": 1701648249000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/lcms2-2.16-h67d730c_0.conda",
+  "version": "2.16"
+}

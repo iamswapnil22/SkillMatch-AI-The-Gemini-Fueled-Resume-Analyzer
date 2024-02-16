@@ -1,0 +1,9 @@
+prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: Pixman
+Description: The pixman library (version 1)
+Version: 0.43.2
+Libs: -L${libdir} -lpixman-1
+Cflags: -I${includedir}/pixman-1

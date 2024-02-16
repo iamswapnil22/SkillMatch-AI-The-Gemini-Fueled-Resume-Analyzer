@@ -1,0 +1,10 @@
+prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+exec_prefix=d:/Data Science Content/ATS using Gemini/venv/Library
+libdir=d:/Data Science Content/ATS using Gemini/venv/Library/lib
+includedir=d:/Data Science Content/ATS using Gemini/venv/Library/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}
